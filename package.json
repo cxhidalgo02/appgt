@@ -19,7 +19,7 @@
     "expo-status-bar": "~1.4.4",
     "firebase": "^9.17.1",
     "localStorage": "^1.0.4",
-    "moti": "^0.24.2",
+    "moti": "^0.25.3",
     "native-base": "^3.4.26",
     "react": "18.2.0",
     "react-native": "0.71.3",
