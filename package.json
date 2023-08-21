@@ -17,7 +17,7 @@
     "expo-linear-gradient": "^12.1.2",
     "expo-notifications": "^0.18.1",
     "expo-status-bar": "~1.4.4",
-    "firebase": "^9.17.1",
+    "firebase": "^10.2.0",
     "localStorage": "^1.0.4",
     "moti": "^0.24.2",
     "native-base": "^3.4.26",
